@@ -14,7 +14,7 @@
             <router-link to="/" class="nav-link">Home</router-link>
             </li>
             <li class="nav-item" routerLinkActive="active">
-            <router-link to="/about" class="nav-link">Search</router-link>
+            <router-link to="/search" class="nav-link">Search</router-link>
             </li>
         </ul>
         </div>
